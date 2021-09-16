@@ -1,3 +1,3 @@
-# kubernetes_labb
+# Kubernetes Labb
 
-Oscar Norman, Robin Martinsson, Balazs Harko
+Oscar Norman, Robin Martinsson & Balazs Harko
